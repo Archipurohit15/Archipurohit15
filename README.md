@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Archi,<br><br>Full-stack developer from Jaipur. I build web apps and AI chatbots for businesses, and everything I've shipped is live.<br><br>- [Titanic](https://titanic-all-in-one.com): Django e-commerce platform for 2 stores in Jaisalmer<br>- [Jyoti Offset](https://jyoti-offset.onrender.com/): Django website with a WhatsApp quote flow<br>- [RAG Chatbot](https://rag-chatbot-archi.streamlit.app/): answers from your documents, and handles general questions too<br><br>Stack: Python · Django · REST APIs · MySQL · JavaScript · RAG · FAISS · AWS<br><br>-Open to freelance work:<br>Mail: aarchipurohit15@gmail.com ·  [ LinkedIn]: (https://www.linkedin.com/in/aarchi-purohit-372642290/)
+# About Me:
+Hi, I'm Archi,<br><br>Full-stack developer from Jaipur. I build web apps and AI chatbots for businesses, and everything I've shipped is live<br><br>- [Titanic](https://titanic-all-in-one.com): Django e-commerce platform for 2 stores in Jaisalmer<br>- [Jyoti Offset](https://jyoti-offset.onrender.com/): Django website with a WhatsApp quote flow<br>- [RAG Chatbot](https://rag-chatbot-archi.streamlit.app/): answers from your documents, and handles general questions too<br><br>Stack: Python · Django · REST APIs · MySQL · JavaScript · RAG · FAISS · AWS<br><br>-Open to freelance work:<br>Mail: aarchipurohit15@gmail.com ·  [ LinkedIn]: (https://www.linkedin.com/in/aarchi-purohit-372642290/)
 
 
 ## 🌐 Socials:
